@@ -1,0 +1,4 @@
+*.pdf
+.claude/
+assets/easymy/*
+!assets/easymy/trao-cup.png
